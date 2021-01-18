@@ -35,3 +35,11 @@ First : Create a repository on GITHUB
 2- git add .
 3- git commit -m "Again change a file"
 4- git push
+
+## Merge feature1 in to master
+
+1- git checkout master
+2- git branch
+3- git merge feature1
+4- git push origin master
+5- git pull
